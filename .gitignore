@@ -1,0 +1,9 @@
+/bin
+/vendor
+/vendor.pb
+.DS_STORE
+/.idea
+/.vscode
+
+*.db
+*.exe
